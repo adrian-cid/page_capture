@@ -1,0 +1,20 @@
+{
+  "name": "drupal/page_capture",
+  "type": "drupal-module",
+  "description": "Take screenshots in site's pages.",
+  "keywords": ["Drupal"],
+  "license": "GPL-2.0+",
+  "homepage": "https://www.drupal.org/sandbox/adriancid/2826069",
+  "minimum-stability": "dev",
+  "authors": [
+    {
+      "name": "Adrian Cid Almaguer (adriancid)",
+      "homepage": "https://www.drupal.org/u/adriancid",
+      "role": "Maintainer"
+    },
+  ],
+  "support": {
+    "issues": "https://www.drupal.org/project/issues/2826069",
+    "source": "http://cgit.drupalcode.org/sandbox-adriancid-2826069"
+  }
+}

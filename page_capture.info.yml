@@ -7,5 +7,5 @@ core: 8.x
 
 dependencies:
   - phantomjs_capture:phantomjs_capture
-  - block
-  - node
+  - drupal:block
+  - drupal:node
