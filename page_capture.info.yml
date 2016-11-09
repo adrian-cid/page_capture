@@ -1,0 +1,11 @@
+name: Page Capture
+description: Take screenshots in site pages.
+package: Other
+
+type: module
+core: 8.x
+
+dependencies:
+  - phantomjs_capture:phantomjs_capture
+  - block
+  - node
